@@ -10,3 +10,4 @@ list of topics:
 6. loops
 7. exit status & redirectors & quotes
 8. sed editor
+9. p
