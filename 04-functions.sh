@@ -4,5 +4,6 @@ greeting() {
   echo good to have you hear
   }
 
-
   greeting
+
+  echo function exit status =$?
