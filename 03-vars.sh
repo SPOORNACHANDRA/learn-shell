@@ -22,3 +22,20 @@ ADD=$((2+2))
 echo ADD of 2+2 = $ADD
 
 #double parantesis for Command substitution
+
+#access environment vaiables
+echo username - $user
+# we get centos
+# there are cetain variables declare in os marked as environemnt variables these variable any program
+env is a command
+
+#my own env variables
+echo username - $user
+echo env var abc - $abc
+# bash 03-vars.sh---->env var abc is empty-----> export abc=100----->can access by your script---->we get env var abc - 100
+#all programs inside the particular terminal system can access it and it is widely used
+
+
+
+
+

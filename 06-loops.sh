@@ -15,3 +15,7 @@ done
 for comp in frontend catalogue user ; do
   echo installing component - $comp
   done
+
+
+
+# if we want to execue the same commands again and again continuosly we use loops
