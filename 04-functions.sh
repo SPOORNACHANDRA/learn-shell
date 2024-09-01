@@ -2,7 +2,7 @@
 greeting() {
   echo hello, goodmorning
   echo welcome to devops training
-  exit or return (only once at a time )
+#  return (only once at a time )
   echo good to have you hear
   }
 
