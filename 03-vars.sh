@@ -21,7 +21,7 @@ echo today Date is $DATE
 ADD=$((2+2))
 echo ADD of 2+2 = $ADD
 
-#double parantesis for Command substitution
+#double parantesis for arthemetic substitution
 
 #access environment vaiables
 echo username - $user
