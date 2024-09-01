@@ -1,3 +1,4 @@
+#functions= if you give set of commands is called Function
 greeting() {
   echo hello, goodmorning
   echo welcome to devops training

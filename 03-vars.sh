@@ -1,4 +1,4 @@
-#variables
+#variables= if you give set of data is called variable
 
 a=10
 echo a is $a or ${a}
