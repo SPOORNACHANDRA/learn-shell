@@ -34,6 +34,7 @@ echo username - $user
 echo env var abc - $abc
 # bash 03-vars.tf.sh---->env var abc is empty-----> export abc=100----->can access by your script---->we get env var abc - 100
 #all programs inside the particular terminal system can access it and it is widely used
+#export abc=100 from cli can make this variable printed
 
 
 
